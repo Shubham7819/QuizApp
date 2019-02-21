@@ -1,0 +1,45 @@
+<resources>
+    <!-- Title of app -->
+    <string name="app_name">Quiz App</string>
+
+    <!-- question texts for the app -->
+    <string name="question_1">Q.1 What is the name of this animal?</string>
+    <string name="question_2">Q.2 Monkey loves ?</string>
+    <string name="question_3">Q.3 There are two types of animals, namely</string>
+    <string name="question_4">Q.4 Giraffe has ?</string>
+    <string name="question_5">Q.5 Enter name of this animal</string>
+
+    <!-- answer options of question 1 to be shown with radio button -->
+    <string name="cat">Cat</string>
+    <string name="turtle">Turtle</string>
+    <string name="lion">Lion</string>
+
+    <!-- answer options of question 2 to be shown with radio button -->
+    <string name="banana">Banana</string>
+    <string name="coconut">Coconut</string>
+    <string name="grapes">Grapes</string>
+
+    <!-- answer options of question 3 to be shown with check boxes -->
+    <string name="child_animals">Child Animals</string>
+    <string name="pet_animals">Pet Animals</string>
+    <string name="wild_animals">Wild Animals</string>
+
+    <!-- answer options of question 4 to be shown with check boxes -->
+    <string name="four_legs">Four legs</string>
+    <string name="two_eyes">Two Eyes</string>
+    <string name="one_mouth">one Mouth</string>
+
+    <!-- hint text display in the empty field for answer of question 5 -->
+    <string name="enter_your_answer">Enter your answer</string>
+
+    <!-- text of submit button -->
+    <string name="submit">submit</string>
+
+    <!-- message for showing score in toast. it will be shown in format of "Your score is '_' out
+    of 10" where _ is the score of user -->
+    <string name="score_message_1">Your Score is \'</string>
+    <string name="score_message_2">\' out of 10.</string>
+
+    <string name="genius_message">\ You are genius.</string>
+    <string name="try_again_message">\ Try again.</string>
+</resources>
